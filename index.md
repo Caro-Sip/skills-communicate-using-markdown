@@ -7,3 +7,5 @@ void hello(){
   std::cout << "Hello GitHub!";
 }
 ```
+- [x] starting github markdown course
+- [ ] finishing it
